@@ -31,8 +31,8 @@
     },
     {
         "device_id": "574b3a663653c73c",
-        "key": "Test",
+        "key": "Test5",
         "expirydate": "27-08-2025",
-        "Allowoffline": false
+        "Allowoffline": true
     }
 ]
