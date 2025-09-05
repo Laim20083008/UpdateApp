@@ -1,14 +1,14 @@
 [
     {
-        "device_id": "device123",
-        "key": "DNSTelegram@CrackClumsy",
-        "expirydate": "19-08-2025",
+        "device_id": "902ff0f2bc1952cd",
+        "key": "TestKey",
+        "expirydate": "13.09.2025",
         "Allowoffline": false
     },
     {
         "device_id": "b0033581e6cf4503",
         "key": "TestKingRemaKey",
-        "expirydate": "3-09-2025",
+        "expirydate": "03-09-2025",
         "Allowoffline": false
     },
     {
